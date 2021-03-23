@@ -72,4 +72,9 @@
 如果有时间，您可以在百度百科上阅读有关袁隆平院士的更多信息。
 
 
-
+windows 上的快捷
+wrap：
+alt + shift + W
+ctrl + shift + g or alt + ctrl + Enter
+计算：
+ctrl + shift + Y
